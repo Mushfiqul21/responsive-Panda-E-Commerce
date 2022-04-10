@@ -1,0 +1,22 @@
+.bg-banner{
+    background-color: #FCECEA;
+}
+.custom-button{
+    background-color: #FF5297;
+    color: white;
+    border-radius: 12px;
+}
+.custom-button:hover{
+    border:1px solid #FF5297;
+    background-color: transparent;
+    color:#FF5297; 
+}
+.custom-card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+}
+.custom-form-bg{
+    background-color: #FCEAE8;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px gray;
+}
